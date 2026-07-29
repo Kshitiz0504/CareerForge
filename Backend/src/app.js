@@ -23,4 +23,11 @@ app.use("/api/interview", interviewRouter)
 
 app.use(errorHandler)
 
+app.get("/", (req, res) => {
+    res.json({
+        success: true,
+        message: "CareerForge API is running 🚀"
+    });
+});
+
 module.exports = app
