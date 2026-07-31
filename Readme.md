@@ -10,7 +10,7 @@ It provides recruiter-style resume analysis, ATS scoring, AI-generated interview
 
 ### Home Page
 
-![Home](./assets/home.png)
+![Home](./assets/Home.png)
 
 ### Login
 
